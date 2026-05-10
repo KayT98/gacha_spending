@@ -13,4 +13,9 @@ All games that received x2 bonus event
 Only show 2 games that received x2 bonus event
 <img width="553" height="313" alt="Screenshot 2026-05-05 230729" src="https://github.com/user-attachments/assets/dc42f45f-4700-49f5-96a0-b5b019c89e50" />
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+Total
+<img width="258" height="192" alt="Screenshot 2026-05-10 142718" src="https://github.com/user-attachments/assets/b96ecc51-7cfb-4378-905f-8d59b438f05f" />
+
+
 
